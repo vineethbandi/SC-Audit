@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-  <a href="https://postimg.cc/G9V5k4bf" title="Project Screenshot" target="_blank">
-    <img src="./public/thumbnail.jpg" width="100%" alt="SC Audit Screenshot"/>
-  </a>
+  
   <br />
   <div>
     <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logoColor=white&logo=javascript&color=F7DF1E" alt="JavaScript" />
