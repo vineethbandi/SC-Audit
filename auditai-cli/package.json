@@ -1,0 +1,27 @@
+{
+  "name": "scaudit-cli",
+  "version": "1.69.0",
+  "description": "A CLI tool to audit smart contracts using OpenAI",
+  "main": "index.js",
+  "bin": {
+    "auditai": "./index.js"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "cli",
+    "smart contract",
+    "audit",
+    "openai",
+    "scaudit"
+  ],
+  "author": "Vineeth Bandi",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^8.0.0",
+    "dotenv": "^10.0.0",
+    "inquirer": "^8.0.0",
+    "openai": "^4.53.0"
+  }
+}
