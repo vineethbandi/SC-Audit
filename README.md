@@ -85,7 +85,7 @@ A sleek React-based interface ensures you get everything done with minimal effor
 3. **Setup Environment Variables**
    Create a `.env` file in the root directory:
    ```plaintext
-   OPENAI_API_KEY=your_openai_api_key
+   NEXT_PUBLIC_API_KEY=your_openai_api_key
    ```
 
 4. **Build the Project**
