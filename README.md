@@ -23,6 +23,14 @@ SC Audit is your AI-powered assistant for auditing smart contracts. It simplifie
 
 ---
 
+## 👉 Video
+
+
+
+https://github.com/user-attachments/assets/ebf6d1bd-a3e2-4c8e-8d58-c55d77c73963
+
+
+
 ## 🌟 Features
 
 ### 🚀 **AI-Driven Insights**
